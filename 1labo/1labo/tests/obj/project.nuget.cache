@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "r0TD9fyHnxQ=",
+  "success": true,
+  "projectFilePath": "/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/tests.csproj",
+  "expectedPackageFiles": [
+    "/Users/ermakovnikita/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/Users/ermakovnikita/.nuget/packages/microsoft.codecoverage/17.14.1/microsoft.codecoverage.17.14.1.nupkg.sha512",
+    "/Users/ermakovnikita/.nuget/packages/microsoft.net.test.sdk/17.14.1/microsoft.net.test.sdk.17.14.1.nupkg.sha512",
+    "/Users/ermakovnikita/.nuget/packages/microsoft.testplatform.objectmodel/17.14.1/microsoft.testplatform.objectmodel.17.14.1.nupkg.sha512",
+    "/Users/ermakovnikita/.nuget/packages/microsoft.testplatform.testhost/17.14.1/microsoft.testplatform.testhost.17.14.1.nupkg.sha512",
+    "/Users/ermakovnikita/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/ermakovnikita/.nuget/packages/nunit/4.0.1/nunit.4.0.1.nupkg.sha512",
+    "/Users/ermakovnikita/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/Users/ermakovnikita/.nuget/packages/system.collections.immutable/8.0.0/system.collections.immutable.8.0.0.nupkg.sha512",
+    "/Users/ermakovnikita/.nuget/packages/system.reflection.metadata/8.0.0/system.reflection.metadata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

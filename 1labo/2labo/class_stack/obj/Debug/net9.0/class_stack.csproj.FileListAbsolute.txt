@@ -1,0 +1,14 @@
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/2labo/class_stack/obj/Debug/net9.0/class_stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/2labo/class_stack/obj/Debug/net9.0/class_stack.AssemblyInfoInputs.cache
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/2labo/class_stack/obj/Debug/net9.0/class_stack.AssemblyInfo.cs
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/2labo/class_stack/obj/Debug/net9.0/class_stack.csproj.CoreCompileInputs.cache
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/2labo/class_stack/bin/Debug/net9.0/class_stack
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/2labo/class_stack/bin/Debug/net9.0/class_stack.deps.json
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/2labo/class_stack/bin/Debug/net9.0/class_stack.runtimeconfig.json
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/2labo/class_stack/bin/Debug/net9.0/class_stack.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/2labo/class_stack/bin/Debug/net9.0/class_stack.pdb
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/2labo/class_stack/obj/Debug/net9.0/class_stack.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/2labo/class_stack/obj/Debug/net9.0/refint/class_stack.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/2labo/class_stack/obj/Debug/net9.0/class_stack.pdb
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/2labo/class_stack/obj/Debug/net9.0/class_stack.genruntimeconfig.cache
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/2labo/class_stack/obj/Debug/net9.0/ref/class_stack.dll

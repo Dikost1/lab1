@@ -1,0 +1,315 @@
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/obj/Debug/net9.0/tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/obj/Debug/net9.0/tests.AssemblyInfoInputs.cache
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/obj/Debug/net9.0/tests.AssemblyInfo.cs
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/obj/Debug/net9.0/tests.csproj.CoreCompileInputs.cache
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/obj/Debug/net9.0/tests.csproj.AssemblyReference.cache
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/.msCoverageSourceRootsMapping_tests
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/app.deps.json
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/app.runtimeconfig.json
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/app
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/tests.deps.json
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/tests.runtimeconfig.json
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/tests.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/tests.pdb
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/Microsoft.TestPlatform.Utilities.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/testhost.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/app.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/app.pdb
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/obj/Debug/net9.0/tests.csproj.Up2Date
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/obj/Debug/net9.0/tests.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/obj/Debug/net9.0/refint/tests.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/obj/Debug/net9.0/tests.pdb
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/obj/Debug/net9.0/tests.genruntimeconfig.cache
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/obj/Debug/net9.0/ref/tests.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/CoverletSourceRootsMapping_tests
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/NUnit3.TestAdapter.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/NUnit3.TestAdapter.pdb
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/nunit.engine.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/nunit.engine.api.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/nunit.engine.core.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/testcentric.engine.metadata.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/nunit.framework.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/tests/bin/Debug/net9.0/nunit.framework.legacy.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/.msCoverageSourceRootsMapping_tests
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/CoverletSourceRootsMapping_tests
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/NUnit3.TestAdapter.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/NUnit3.TestAdapter.pdb
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/nunit.engine.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/nunit.engine.api.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/nunit.engine.core.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/testcentric.engine.metadata.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/app.deps.json
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/app.runtimeconfig.json
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/app
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/tests.deps.json
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/tests.runtimeconfig.json
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/tests.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/tests.pdb
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/Microsoft.TestPlatform.Utilities.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/testhost.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/nunit.framework.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/nunit.framework.legacy.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/app.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/bin/Debug/net9.0/app.pdb
+/Users/ermakovnikita/Downloads/лаба1/tests/obj/Debug/net9.0/tests.csproj.AssemblyReference.cache
+/Users/ermakovnikita/Downloads/лаба1/tests/obj/Debug/net9.0/tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ermakovnikita/Downloads/лаба1/tests/obj/Debug/net9.0/tests.AssemblyInfoInputs.cache
+/Users/ermakovnikita/Downloads/лаба1/tests/obj/Debug/net9.0/tests.AssemblyInfo.cs
+/Users/ermakovnikita/Downloads/лаба1/tests/obj/Debug/net9.0/tests.csproj.CoreCompileInputs.cache
+/Users/ermakovnikita/Downloads/лаба1/tests/obj/Debug/net9.0/tests.csproj.Up2Date
+/Users/ermakovnikita/Downloads/лаба1/tests/obj/Debug/net9.0/tests.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/obj/Debug/net9.0/refint/tests.dll
+/Users/ermakovnikita/Downloads/лаба1/tests/obj/Debug/net9.0/tests.pdb
+/Users/ermakovnikita/Downloads/лаба1/tests/obj/Debug/net9.0/tests.genruntimeconfig.cache
+/Users/ermakovnikita/Downloads/лаба1/tests/obj/Debug/net9.0/ref/tests.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/.msCoverageSourceRootsMapping_tests
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/CoverletSourceRootsMapping_tests
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/NUnit3.TestAdapter.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/NUnit3.TestAdapter.pdb
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/nunit.engine.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/nunit.engine.api.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/nunit.engine.core.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/testcentric.engine.metadata.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/app.deps.json
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/app.runtimeconfig.json
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/app
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/tests.deps.json
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/tests.runtimeconfig.json
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/tests.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/tests.pdb
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/Microsoft.TestPlatform.Utilities.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/testhost.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/nunit.framework.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/nunit.framework.legacy.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/app.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/bin/Debug/net9.0/app.pdb
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/obj/Debug/net9.0/tests.csproj.AssemblyReference.cache
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/obj/Debug/net9.0/tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/obj/Debug/net9.0/tests.AssemblyInfoInputs.cache
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/obj/Debug/net9.0/tests.AssemblyInfo.cs
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/obj/Debug/net9.0/tests.csproj.CoreCompileInputs.cache
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/obj/Debug/net9.0/tests.csproj.Up2Date
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/obj/Debug/net9.0/tests.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/obj/Debug/net9.0/refint/tests.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/obj/Debug/net9.0/tests.pdb
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/obj/Debug/net9.0/tests.genruntimeconfig.cache
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/1labo/tests/obj/Debug/net9.0/ref/tests.dll

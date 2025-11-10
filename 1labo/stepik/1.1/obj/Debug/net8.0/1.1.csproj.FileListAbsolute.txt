@@ -1,0 +1,14 @@
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/stepik/1.1/bin/Debug/net8.0/1.1
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/stepik/1.1/bin/Debug/net8.0/1.1.deps.json
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/stepik/1.1/bin/Debug/net8.0/1.1.runtimeconfig.json
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/stepik/1.1/bin/Debug/net8.0/1.1.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/stepik/1.1/bin/Debug/net8.0/1.1.pdb
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/stepik/1.1/obj/Debug/net8.0/1.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/stepik/1.1/obj/Debug/net8.0/1.1.AssemblyInfoInputs.cache
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/stepik/1.1/obj/Debug/net8.0/1.1.AssemblyInfo.cs
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/stepik/1.1/obj/Debug/net8.0/1.1.csproj.CoreCompileInputs.cache
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/stepik/1.1/obj/Debug/net8.0/1.1.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/stepik/1.1/obj/Debug/net8.0/refint/1.1.dll
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/stepik/1.1/obj/Debug/net8.0/1.1.pdb
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/stepik/1.1/obj/Debug/net8.0/1.1.genruntimeconfig.cache
+/Users/ermakovnikita/Library/Mobile Documents/com~apple~CloudDocs/НГТУ/2 course/programming/stepik/1.1/obj/Debug/net8.0/ref/1.1.dll
